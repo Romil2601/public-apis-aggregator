@@ -126,7 +126,7 @@ DELETE /apis/:id    → Delete API
 ## 🔐 Environment Variables (Backend)
 
 PORT=8000  
-DATABASE_URL=your-database-url  
+DATABASE_URL=backend/database.db 
 
 ---
 
