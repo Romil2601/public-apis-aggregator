@@ -11,13 +11,11 @@ Built with **Vite (React)** for the frontend, **Python** for the backend, and **
 - Vite + React
 - Axios
 - CSS Grid / Flexbox
-- Deployed on Vercel
 
 ### Backend
 - Python
 - REST API (Flask / FastAPI)
 - SQL (SQLite / MySQL / PostgreSQL)
-- Deployed on Render
 
 ---
 
